@@ -1,6 +1,6 @@
 
 // @TODO
-int copy(char* stuff) {
+int copy(const char* stuff) {
     return 0;
 }
 

@@ -9,5 +9,5 @@ win:
 		clang++ -o $(EXENAME) main.cpp win_platform.cpp
 
 linux:
-		clang++ -o $(EXENAME) main.cpp
+		clang++ -o $(EXENAME) main.cpp linux_platform.cpp
 
