@@ -1,5 +1,5 @@
 
-EXENAME=clipcp
+EXENAME=cbcp
 
 macos:
 		clang++ -framework Foundation -framework AppKit -o $(EXENAME) main.cpp macos_platform.mm
