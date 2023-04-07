@@ -7,13 +7,7 @@ Currently, there is no windows or linux support.
 
 # Compiling / Building
 ## MacOS 
-Run `make macos`.
-
-## Windows
-Run `make win`.
-
-## Linux 
-Run `make linux`.
+Run `make macos`
 
 # Usage
 either pipe data to the process and provide no arguments:
